@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi Humans!
+I like node, this is just to test this program.
